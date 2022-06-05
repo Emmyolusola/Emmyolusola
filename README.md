@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Emmyolusola
 - 👀 I’m interested in writing awesome applications with the Java Programming Language (mobile and backend)
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently writing Java
 - 💞️ I’m looking to collaborate on available open source projects
 - 📫 How to reach me ...
 
